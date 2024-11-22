@@ -1,0 +1,57 @@
+.cabeçalho {
+    background-color: black;
+    height: 130px;
+    top: 0;
+}
+.texto{
+    margin-left: 25px;
+    margin-top: -10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: yellow;
+    width: 1050px;
+}
+.elmo {
+    padding-left: 10px;
+    margin-top: 15px;
+    background-color: black;
+}
+body {
+    background-color: black;
+}
+#imagem{
+    border: solid white;
+    background-color: aliceblue;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h2{
+    margin-left: 25px;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+h3{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+#parágrafo{
+    margin-left: 10px;
+}
+#destaque{
+    color: white;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}

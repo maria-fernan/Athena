@@ -1,0 +1,65 @@
+.texto{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    width: 100%;
+}
+.texto1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    display: flex;
+}
+body {
+    background-color: black;
+}
+#imagem{
+    margin-top: 30px;
+    border: solid white;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h2{
+    margin-left: 25px;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+#frase{
+    margin-left: 10px;
+    font-weight: bold;
+    color: black;
+    background-color: yellow;
+}
+h3{
+    margin-left: 25px;
+    color: white;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#comentário{
+    font-size: 15px;
+}
+#protótipo{
+    margin-left: 30px;
+}
+#parágrafo{
+    margin-left: 10px;
+}
+#fontes{
+    margin-left: 10px;
+}
+#fontes:hover a{
+    color: white;
+}
